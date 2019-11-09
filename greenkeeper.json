@@ -1,0 +1,13 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "package.json",
+        "plugins/gatsby-plugin-stackbit-static-sass/package.json",
+        "plugins/gatsby-remark-component/package.json",
+        "plugins/gatsby-remark-page-creator/package.json",
+        "plugins/gatsby-source-data/package.json"
+      ]
+    }
+  }
+}
